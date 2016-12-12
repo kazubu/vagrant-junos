@@ -63,7 +63,7 @@ Vagrant.require_plugin "vagrant-junos"
 ```
 Use bundler to execute Vagrant:
 ```
-$ bundle exec vagrant up juniper/ffp-12.1X46-D20.5
+$ bundle exec vagrant up juniper/ffp-12.1X47-D15.4-packetmode
 ```
 
 ## Notes
