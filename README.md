@@ -25,7 +25,7 @@ Install using standard Vagrant 1.7+ plugin installation methods.  The fastest wa
 $ vagrant plugin install vagrant-junos
 ...
 ... (create a Vagrant environment in a directory):
-$ vagrant init juniper/ffp-12.1X46-D20.5
+$ vagrant init juniper/ffp-12.1X47-D15.4-packetmode
 ...
 $ vagrant up
 ```
